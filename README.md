@@ -1,6 +1,5 @@
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
+<img width="519" alt="Screenshot 2023-07-31 at 3 55 51 PM" src="https://github.com/ahmed-eldin/final-rock-paper-scissors/assets/111728755/29700525-f755-4304-9238-5dc979c4669d">
 
 # JavaScript Rock Paper Scissors Application
 
